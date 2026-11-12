@@ -117,4 +117,4 @@ Contributions, bug reports, and feature suggestions are welcome. For substantial
 
 ## License
 
-No license has been specified yet. Add a `LICENSE` file before presenting the project as open source.
+No license has been specified yet.
